@@ -382,6 +382,9 @@
 	.main-blog{
 		padding: 60px 0;
 	}
+	.footer__sotial{
+		margin-left: 0px;
+	}
 	.footer__bottom{
 		justify-content: space-between;
 	}
