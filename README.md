@@ -1,4 +1,4 @@
-#  [TeaLuxe]([https://pages.github.com/](https://angelkrylova.github.io/TeaLuxe/))
+#  TeaLuxe [GitHub Pages](https://angelkrylova.github.io/TeaLuxe/)
 ## HTML5
 ## CSS3
 ## JS
